@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 5dc10873-f21c-4364-028d-cda99aea1603
 title: Teaching Note
 uid: 5143392a-9958-c625-eb40-d9dff505ad1b
