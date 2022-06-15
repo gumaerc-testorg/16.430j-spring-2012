@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains teaching objectives and guidelines for instructors
+  looking to teach this course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
