@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, format, grading, and the schedule of lecture topics, specialty
+  topics, faculty advisers, and deadlines for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5dc10873-f21c-4364-028d-cda99aea1603
 ---
@@ -16,7 +21,7 @@ This course introduces sensory systems, and multi-sensory fusion using the vesti
 
 Listeners may attend, provided that they read the papers, assist in presentations, and participate in discussions.
 
-[See course notes for teachers]({{< baseurl >}}/pages/syllabus/teaching-note)
+{{% resource_link 5143392a-9958-c625-eb40-d9dff505ad1b "See course notes for teachers" %}}
 
 Class Format
 ------------

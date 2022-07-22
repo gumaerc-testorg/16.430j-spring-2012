@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the weekly group presentations and
+  term project assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 169b630b-eec1-65a7-f546-fb42f1f89ceb
 ---

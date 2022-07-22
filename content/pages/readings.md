@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section outlines the reading assignments for the course by topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bfa67e63-5045-6e75-f09d-53767c35285c
 ---
