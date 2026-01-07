@@ -34,7 +34,7 @@ READINGS
 Introduction and organization, review of peripheral physiology
 {{< tdclose >}}
 {{< tdopen >}}
-Goldberg, J. M., Victor J. Wilson, et al. "The Vestibular System in Everyday Life." Chapter 1 in _The Vestibular System, A Sixth Sense_. Oxford University Press, 2012, pp. 1–19. ISBN: 9780195167085. \[Preview with {{% resource_link "84f29fae-0ea7-4d4e-ba10-f5a725c58b0c" "Google Books" %}}\]
+Goldberg, J. M., Victor J. Wilson, et al. "The Vestibular System in Everyday Life." Chapter 1 in _The Vestibular System, A Sixth Sense_. Oxford University Press, 2012, pp. 1–19. ISBN: 9780195167085. \[Preview with [Google Books](http://books.google.com/books?id=dMixjJPwKdQC&pg=PA1#v=onepage)\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,9 +66,9 @@ Otolith afferent response; discharge variations
 {{< tdopen >}}
 
 
-Fernandez, C., and J. M. Goldberg. "{{% resource_link "6b55b2e7-eac4-47fd-8a78-2a58db764f66" "Physiology of Peripheral Neurons Innervating Otolith Organs of the Squirrel Monkey. I. Response to Static Tilts and to Long-Duration Centrifugal Force" %}}." _Journal of Neurophysiology_ 39, no. 5 (1976): 970–84.
+Fernandez, C., and J. M. Goldberg. "[Physiology of Peripheral Neurons Innervating Otolith Organs of the Squirrel Monkey. I. Response to Static Tilts and to Long-Duration Centrifugal Force](http://www.ncbi.nlm.nih.gov/pubmed/824412)." _Journal of Neurophysiology_ 39, no. 5 (1976): 970–84.
 
-———. "{{% resource_link "5b400f99-0aa6-47e9-b904-ada2bc1151da" "Physiology of Peripheral Neurons Innervating Otolith Organs of the Squirrel Monkey. II. Directional Selectivity and Force-Response Relations" %}}." _Journal of Neurophysiology_ 39, no. 5 (1976): 985–95.
+———. "[Physiology of Peripheral Neurons Innervating Otolith Organs of the Squirrel Monkey. II. Directional Selectivity and Force-Response Relations](http://www.ncbi.nlm.nih.gov/pubmed/824413)." _Journal of Neurophysiology_ 39, no. 5 (1976): 985–95.
 
 
 {{< tdclose >}}
@@ -84,13 +84,13 @@ Canal- otolith interaction, velocity storage, and modeling
 {{< tdopen >}}
 
 
-Merfeld, D. M. "{{% resource_link "5fa92bf6-2157-4271-9d46-a8be1a5ee0d0" "Vestibular Perception and Action Employ Qualitatively Different Mechanisms. II. VOR and Perceptual Responses During Combined Tilt & Translation" %}}." _Journal of Neurophysiology_ 94, no. 1 (2005): 199–205.
+Merfeld, D. M. "[Vestibular Perception and Action Employ Qualitatively Different Mechanisms. II. VOR and Perceptual Responses During Combined Tilt & Translation](http://dx.doi.org/10.1152/jn.00905.2004)." _Journal of Neurophysiology_ 94, no. 1 (2005): 199–205.
 
 ### Reference for Merfeld Paper:
 
-Merfeld, D. M. {{% resource_link "f4c770b8-e879-4087-87d8-99197a5f904c" "\"Vestibular Perception and Action Employ Qualitatively Different Mechanisms. I. Frequency Response of VOR and Perceptual Responses During Translation and Tilt" %}}." _Journal of Neurophysiology_ 94, no. 1 (2005): 186–98.
+Merfeld, D. M. ["Vestibular Perception and Action Employ Qualitatively Different Mechanisms. I. Frequency Response of VOR and Perceptual Responses During Translation and Tilt](http://dx.doi.org/10.1152/jn.00904.2004)." _Journal of Neurophysiology_ 94, no. 1 (2005): 186–98.
 
-Karmali, F., and D. M. Merfeld. "{{% resource_link "58248a00-a737-4953-b568-6c81586a5d9f" "A Distributed, Dynamic, Parallel Computational Model: The Role of Noise in Velocity Storage" %}}." _Journal of Neurophysiology_ 108, no. 2 (2012): 390–405.
+Karmali, F., and D. M. Merfeld. "[A Distributed, Dynamic, Parallel Computational Model: The Role of Noise in Velocity Storage](http://www.ncbi.nlm.nih.gov/pubmed/22514288)." _Journal of Neurophysiology_ 108, no. 2 (2012): 390–405.
 
 
 {{< tdclose >}}
@@ -106,9 +106,9 @@ Efferents
 {{< tdopen >}}
 
 
-Sadeghi, S. G. "{{% resource_link "9be006a3-6113-4220-9a56-36496db57927" "Efferent-Mediated Responses in Vestibular Nerve Afferents of the Alert Macaque" %}}." _Journal of Neurophysiology_ 101, no. 2 (2009): 988–1001.
+Sadeghi, S. G. "[Efferent-Mediated Responses in Vestibular Nerve Afferents of the Alert Macaque](http://www.ncbi.nlm.nih.gov/pubmed/19091917)." _Journal of Neurophysiology_ 101, no. 2 (2009): 988–1001.
 
-Rabbitt, R. D. "{{% resource_link "57fd793a-fdd8-4e43-b134-d8cbec6f5d94" "Mechanical Amplification by Hair Cells in the Semicircular Canals" %}}." _Proceedings of the National Academy of Sciences_ 107, no. 8 (2010): 3864–9.
+Rabbitt, R. D. "[Mechanical Amplification by Hair Cells in the Semicircular Canals](http://www.ncbi.nlm.nih.gov/pubmed/20133682)." _Proceedings of the National Academy of Sciences_ 107, no. 8 (2010): 3864–9.
 
 
 {{< tdclose >}}
@@ -124,9 +124,9 @@ Noise / thresholds
 {{< tdopen >}}
 
 
-Haburcakova, C. "{{% resource_link "9ee3b54a-ae6d-4a93-b8d4-35ab8c26ea1e" "Frequency Dependence of Vestibuloocular Reflex Thresholds" %}}." _Journal of Neurophysiology_ 107, no. 3 (2012): 973–83.
+Haburcakova, C. "[Frequency Dependence of Vestibuloocular Reflex Thresholds](http://www.ncbi.nlm.nih.gov/pubmed/22072512)." _Journal of Neurophysiology_ 107, no. 3 (2012): 973–83.
 
-Grabherr, L. "{{% resource_link "7330f9f5-a409-4c83-b03f-a57108871484" "Vestibular Thresholds for Yaw Rotation About an Earth-Vertical Axis as a Function of Frequency" %}}." _Experimental Brain Research_ 186, no. 4 (2008): 677–81.
+Grabherr, L. "[Vestibular Thresholds for Yaw Rotation About an Earth-Vertical Axis as a Function of Frequency](http://www.ncbi.nlm.nih.gov/pubmed/18350283)." _Experimental Brain Research_ 186, no. 4 (2008): 677–81.
 
 
 {{< tdclose >}}
@@ -160,9 +160,9 @@ Active- passive responses and early processing of brainstem signals
 {{< tdopen >}}
 
 
-Roy, J. E., and K. E. Cullen. "{{% resource_link "1592e78a-5153-4b3e-af2c-d030de18c7ab" "Dissociating Self-Generated from Passively Applied Head Motion: Neural Mechanisms in the Vestibular Nuclei" %}}." _The Journal of Neuroscience_ 24, no. 9 (2004): 2102–11.
+Roy, J. E., and K. E. Cullen. "[Dissociating Self-Generated from Passively Applied Head Motion: Neural Mechanisms in the Vestibular Nuclei](http://www.jneurosci.org/content/24/9/2102.short)." _The Journal of Neuroscience_ 24, no. 9 (2004): 2102–11.
 
-Brooks, J. X., and K. E. Cullen. "{{% resource_link "3343e49f-a5c6-468d-b855-3ea081abd935" "Multimodal Integration in Rostral Fastigial Nucleus Provides an Estimate of Body Movement" %}}." _The Journal of Neuroscience_ 29, no. 34 (2009): 10499–511.
+Brooks, J. X., and K. E. Cullen. "[Multimodal Integration in Rostral Fastigial Nucleus Provides an Estimate of Body Movement](http://www.jneurosci.org/content/29/34/10499.abstract)." _The Journal of Neuroscience_ 29, no. 34 (2009): 10499–511.
 
 
 {{< tdclose >}}
@@ -178,9 +178,9 @@ Cerebellum and adaptation
 {{< tdopen >}}
 
 
-Lisberger, S. G.,  T. A. Pavelko, et al. "{{% resource_link "1aa1bc1e-2196-4e47-8fa4-0eee7a863f9f" "Neural Basis for Motor Learning in the Vestibuloocular Reflex of Primates. I. Changes in the Responses of Brain Stem Neurons" %}}." _Journal of Neurophysiology_ 72, no. 2 (1994): 928–53.
+Lisberger, S. G.,  T. A. Pavelko, et al. "[Neural Basis for Motor Learning in the Vestibuloocular Reflex of Primates. I. Changes in the Responses of Brain Stem Neurons](http://www.ncbi.nlm.nih.gov/pubmed/7983547)." _Journal of Neurophysiology_ 72, no. 2 (1994): 928–53.
 
-McElvain, L. E.,  M. W. Bagnall, et al. "{{% resource_link "4b232e76-e23a-4417-b1b8-aaffc48d3069" "Bidirectional Plasticity Gated by Hyperpolarization Controls the Gain of Postsynaptic Firing Responses at Central Vestibular Nerve Synapses" %}}." _Neuron_ 68, no. 4 (2010): 763–75.
+McElvain, L. E.,  M. W. Bagnall, et al. "[Bidirectional Plasticity Gated by Hyperpolarization Controls the Gain of Postsynaptic Firing Responses at Central Vestibular Nerve Synapses](http://www.ncbi.nlm.nih.gov/pubmed/21092864)." _Neuron_ 68, no. 4 (2010): 763–75.
 
 
 {{< tdclose >}}
@@ -196,15 +196,15 @@ Motion sickness
 {{< tdopen >}}
 
 
-Oman, C. M. "{{% resource_link "61b26a9f-c6b8-495f-9fbb-c578ef1d1899" "Motion Sickness: A Synthesis and Evaluation of the Sensory Conflict Theory" %}}." _Canadian Journal of Physiology and Pharmacology_ 68, no. 2 (1990): 294–303.
+Oman, C. M. "[Motion Sickness: A Synthesis and Evaluation of the Sensory Conflict Theory](http://www.ncbi.nlm.nih.gov/pubmed/2178753)." _Canadian Journal of Physiology and Pharmacology_ 68, no. 2 (1990): 294–303.
 
-———. "{{% resource_link "9510b705-6020-4a47-915d-ea133cd17304" "Are Evolutionary Hypotheses for Motion Sickness \"Just-So\" Stories?" %}}" _Journal of Vestibular Research_ 22, no. 2–3 (2012): 117–27.
+———. "[Are Evolutionary Hypotheses for Motion Sickness "Just-So" Stories?](http://dx.doi.org/10.3233/VES-2011-0432)" _Journal of Vestibular Research_ 22, no. 2–3 (2012): 117–27.
 
 ### References for Oman 2011:
 
 Treisman, M. "[Motion Sickness: An Evolutionary Hypothesis](http://dx.doi.org/10.1126/science.301659 )." _Science_ 197, no. 4302 (1977): 493–5.
 
-Money, K. E., and B. S. Cheung. "{{% resource_link "df67bbde-667b-4189-8c8e-e49505ccb52b" "Another Function of the Inner Ear: Facilitation of the Emetic Response to Poisons" %}}." _Aviation, Space and Environmental Medicine_ 54, no. 3 (1983): 208–11.
+Money, K. E., and B. S. Cheung. "[Another Function of the Inner Ear: Facilitation of the Emetic Response to Poisons](http://www.ncbi.nlm.nih.gov/pubmed/6847555)." _Aviation, Space and Environmental Medicine_ 54, no. 3 (1983): 208–11.
 
 
 {{< tdclose >}}
@@ -234,7 +234,7 @@ Vestibulo spinal pathways, locomotion
 
 Horak, F. B., and J. M. MacPherson. "Postural Orientation and Equilibrium." Chapter 7 in _Handbook of Physiology: Section 12: Exercise: Regulation and Integration of Multiple Systems_. Edited by L. B. Rowell and J. T. Shepherd. American Physiological Society / Oxford University Press, 1996, pp. 255–92. ISBN: 9780195091748.
 
-Peterka, R. J. "{{% resource_link "56f20bc4-b5df-4b41-9c1d-89e6b005cc6e" "Sensorimotor Integration in Human Postural Control" %}}." _Journal of Neurophysiology_ 88, no. 3 (2002): 1097–118.
+Peterka, R. J. "[Sensorimotor Integration in Human Postural Control](http://www.ncbi.nlm.nih.gov/pubmed/12205132)." _Journal of Neurophysiology_ 88, no. 3 (2002): 1097–118.
 
 
 {{< tdclose >}}
@@ -250,11 +250,11 @@ Place and direction and path integration; limbic head direction, place and grid 
 {{< tdopen >}}
 
 
-{{% resource_link "dc4ed3e0-7460-4d11-bb35-95b9cde7cca9" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Taube, J. S. "Head Direction Cell Activity: Landmark Control and Responses in Three Dimensions." Chapter 3 in _Head Direction Cells and the Neural Mechanisms of Spatial Orientation_. Edited by S. I. Wiener and J. S. Taube. MIT Press, 2005, pp. 45–67. ISBN: 9780262232418.
+[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262232418) Taube, J. S. "Head Direction Cell Activity: Landmark Control and Responses in Three Dimensions." Chapter 3 in _Head Direction Cells and the Neural Mechanisms of Spatial Orientation_. Edited by S. I. Wiener and J. S. Taube. MIT Press, 2005, pp. 45–67. ISBN: 9780262232418.
 
-Best, P. J., A. M. White, et al. "{{% resource_link "e7e95339-b232-4c35-b8ee-902a603086d5" "Spatial Processing In The Brain: The Activity of Hippocampal Place Cells" %}}." _Annual Review of Neuroscience_ 24 (2001): 459–86.
+Best, P. J., A. M. White, et al. "[Spatial Processing In The Brain: The Activity of Hippocampal Place Cells](http://dx.doi.org/10.1146/annurev.neuro.24.1.459)." _Annual Review of Neuroscience_ 24 (2001): 459–86.
 
-Buzsaki, G. "{{% resource_link "39fc89bf-c927-4243-98ef-27b1ae0be4cf" "Neurons and Navigation" %}}." _Nature_ 436 (2005): 781–2.
+Buzsaki, G. "[Neurons and Navigation](http://dx.doi.org/10.1038/436781a)." _Nature_ 436 (2005): 781–2.
 
 
 {{< tdclose >}}
@@ -270,9 +270,9 @@ Space and aviation applications
 {{< tdopen >}}
 
 
-Paloski, W. H., et al. "{{% resource_link "6d835efd-71ef-49be-9f0b-6b11cc1e8e59" "Risk of Sensory-Motor Performance Failures Affecting Vehicle Control During Space Missions: A Review of the Evidence" %}}." _Journal of Gravitational Physiology_ 15, no. 2 (2008): 1–29.
+Paloski, W. H., et al. "[Risk of Sensory-Motor Performance Failures Affecting Vehicle Control During Space Missions: A Review of the Evidence](http://www.mendeley.com/catalog/risk-sensorymotor-performance-failures-affecting-vehicle-control-during-space-missions-review-eviden/)." _Journal of Gravitational Physiology_ 15, no. 2 (2008): 1–29.
 
-Young, L. R. "{{% resource_link "69424d34-d5fe-441b-bd50-5e363009e96a" "Vestibular Reactions to Spaceflight: Human Factors Issues" %}}." _Aviation, Space, and Environmental Medicine_ 71, no. 9 (2000): A100–4.
+Young, L. R. "[Vestibular Reactions to Spaceflight: Human Factors Issues](http://www.ncbi.nlm.nih.gov/pubmed/10993318)." _Aviation, Space, and Environmental Medicine_ 71, no. 9 (2000): A100–4.
 
 
 {{< tdclose >}}
